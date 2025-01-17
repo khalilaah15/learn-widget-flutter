@@ -12,6 +12,9 @@ Hai teman-teman Flutter Dev! 👋 Kali ini kita akan belajar tentang **ListView*
 ---
 
 ## 📝 Penjelasan Kode
+
+Buka 006_listview/lib/main.dart
+
 Mari kita telusuri kode di bawah ini langkah demi langkah:
 
 ### 1️⃣ Fungsi `main`
