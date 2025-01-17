@@ -55,19 +55,19 @@ class MyApp extends StatelessWidget {
 }
 ```
 #### Apa yang Terjadi?
-- **Container Utama**:
+- **Container Main**:
   - **`color`**: Memberikan warna latar belakang merah tua.
   - **`margin`**: Memberikan jarak luar (margin) dari Container ke elemen lain.
   - **`padding`**: Memberikan ruang di dalam Container untuk isinya.
-- **Container Anak**:
+- **Container Child**:
   - **`margin`**: Memberikan jarak luar untuk elemen di dalamnya.
   - **`decoration`**: Menggunakan **BoxDecoration** untuk menambahkan dekorasi seperti border radius dan gradasi warna.
 
 ---
 
 ## 🚀 Cara Kerja
-1. **Container Utama** tampil dengan warna merah tua dan margin serta padding yang diatur.
-2. **Container Anak** berada di dalam Container Utama dengan dekorasi berupa sudut melengkung dan gradasi warna dari kuning ke biru.
+1. **Container Main** tampil dengan warna merah tua dan margin serta padding yang diatur.
+2. **Container Child** berada di dalam Container Utama dengan dekorasi berupa sudut melengkung dan gradasi warna dari kuning ke biru.
 
 ---
 
