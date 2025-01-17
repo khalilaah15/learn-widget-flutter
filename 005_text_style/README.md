@@ -11,6 +11,9 @@ Halo, teman-teman kreatif! 👋 Kali ini kita akan membahas tentang **Text Style
 ---
 
 ## 📝 Penjelasan Kode
+
+Buka 005_text_style/lib/main.dart
+
 Mari kita bahas kode berikut langkah demi langkah:
 
 ### 1️⃣ Fungsi `main`
