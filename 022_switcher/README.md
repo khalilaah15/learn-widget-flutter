@@ -13,6 +13,8 @@ Halo Flutter Dev! 👋 Kali ini kita akan belajar bagaimana cara menggunakan **A
 
 ## 🖋️ Penjelasan Kode
 
+Buka 022_switcher/lib/main.dart
+
 Mari kita bahas kode di bawah ini, yang menggabungkan **Switch** dan **AnimatedSwitcher**. 🚀
 
 ### 1⃣ Fungsi main
