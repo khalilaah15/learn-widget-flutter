@@ -13,6 +13,8 @@ Hai, teman-teman! 👋 Kali ini kita akan membahas **Anonymous Method**, salah s
 
 ## 📝 Penjelasan Kode
 
+Buka 004_anonymous_method/lib/main.dart
+
 Mari kita bahas kode ini langkah demi langkah:
 
 ### 1️⃣ Fungsi `main`
