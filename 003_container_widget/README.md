@@ -13,6 +13,8 @@ Halo, teman-teman! 👋 Kali ini kita akan belajar tentang **Container**, widget
 
 ## 📝 Penjelasan Kode
 
+Buka 003_container_widget/lib/main.dart
+
 Yuk kita bahas langkah-langkahnya:
 
 ### 1️⃣ Fungsi `main`
