@@ -126,7 +126,6 @@ class MyApp extends StatelessWidget {
 
 ## 📚 Sumber Tambahan
 - [Dokumentasi TextStyle](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
-- [Dokumentasi FontFeature](https://api.flutter.dev/flutter/painting/FontFeature-class.html)
 
 ---
 
