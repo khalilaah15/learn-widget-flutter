@@ -13,6 +13,7 @@ Hai, teman-teman! 👋 Kali ini kita bakal belajar tentang **Row** dan **Column*
 
 ## 📝 Penjelasan Kode
 
+Buka 002_aplikasi_row_column/lib/main.dart
 Berikut langkah-langkah memahami kodenya:
 
 ### 1️⃣ Fungsi `main`
