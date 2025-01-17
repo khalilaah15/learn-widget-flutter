@@ -12,7 +12,7 @@ Halo teman-teman! 👋 Selamat datang di proyek **State Management**. Di sini ki
 ---
 
 ## 📝 Penjelasan Kode
-
+buka 001_state_management/lib/main.dart
 Yuk kita kupas kodenya satu per satu:
 
 ### 1️⃣ Impor Dulu Paketnya
